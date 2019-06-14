@@ -1,4 +1,4 @@
-#Inheritance
+# Inheritance
 
 In this piece of work i was tasked with using inheritence to create a game and also a tiered package calculator. I found this assignment very beneficial as it
 helped me learn how to best use inheritence in the future.
